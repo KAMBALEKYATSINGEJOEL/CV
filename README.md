@@ -42,3 +42,11 @@ Kambale Kyatsinge Joel
 ![Capture Application](assets/images/capture5.jpeg)
 ![Capture Application](assets/images/capture6.jpeg)
 ![Capture Application](assets/images/capture7.jpeg)
+
+## video domo
+<h2> Video demonstration cv_flutter_joel </h2>
+<video width="100%" controls>
+<source src="assets/videos/video_demo.mp4" type="video/mp4">
+</video>
+
+
