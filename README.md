@@ -43,7 +43,7 @@ Kambale Kyatsinge Joel
 ![Capture Application](assets/images/capture6.jpeg)
 ![Capture Application](assets/images/capture7.jpeg)
 
-## video domo
+## video démo
 
 
 https://github.com/user-attachments/assets/019d4e3f-3445-4839-9f0c-51a16f438798
