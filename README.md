@@ -44,5 +44,5 @@ Kambale Kyatsinge Joel
 ![Capture Application](assets/images/capture7.jpeg)
 
 ## video domo
-![assets/images/capturedemo.jpg](assets/videos/video_demo.mp4)
+![assets/images/Capturedemo.jpg](assets/videos/video_demo.mp4)
 
